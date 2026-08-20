@@ -1,4 +1,5 @@
 Primeira versão das minhas anotações.
 
 
-Inserindo uma segunda linha no codigo
+Inserindo uma segunda linha no código
+Aqui estou inserindo informações diversas para exemplificar para a turma oque é versionamento de código....
